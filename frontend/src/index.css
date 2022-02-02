@@ -10,3 +10,15 @@ body {
 .auth-form {
   margin-top: 10px;
 }
+
+.user-details{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.user-action{
+  display: flex;
+  flex-direction: column;
+  
+}
